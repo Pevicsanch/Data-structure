@@ -1,7 +1,7 @@
 # Data-structure
-## IT Academy - Data Science Itinerary: Data structure
+##  Data structure
 
-*S02-T01: Data structure*
+*Data structure*
 
 Python Basic Exercise for Beginners:
 
